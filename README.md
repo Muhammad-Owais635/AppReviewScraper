@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/your-username/app-review-scraper.git
+git clone https://github.com/your-username/AppReviewScraper.git
 cd app-review-scraper
 ```
 
