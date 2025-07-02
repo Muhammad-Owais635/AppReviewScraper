@@ -67,11 +67,9 @@ Reviews will be saved as `.csv` files in the `output/` directory.
 ## 📁 Project Structure
 
 ```
-app-review-scraper/
+AppReviewScraper/
 ├── scrape_google_play.py
 ├── scrape_app_store.py
-├── utils/
-│   └── helpers.py
 ├── output/
 │   └── *.csv
 ├── requirements.txt
