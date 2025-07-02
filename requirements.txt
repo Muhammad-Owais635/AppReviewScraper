@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+pandas
+google-play-scraper-python
+app_store_scraper
