@@ -84,21 +84,4 @@ app-review-scraper/
 
 - Sentiment analysis integration (e.g., VADER/TextBlob)
 - UI dashboard using Streamlit or Flask
-- Language filtering
-- App category batch scraping
 
----
-
-## 📝 License
-
-MIT License
-
----
-
-## 🧠 Suggested Repo Names
-
-- `app-review-scraper`
-- `store-rev-crawler`
-- `reviewfetcher`
-- `scrape2review`
-- `app-review-miner`
