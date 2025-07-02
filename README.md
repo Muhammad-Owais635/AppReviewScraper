@@ -38,16 +38,16 @@ pip install -r requirements.txt
 1. **Clone the repo**
 ```bash
 git clone https://github.com/your-username/AppReviewScraper.git
-cd app-review-scraper
+cd AppReviewScraper
 ```
 
 2. **Run the scraper**
 ```bash
 # For Google Play
-python scrape_google_play.py --app_id=com.example.app
+python scrape_google_play.py
 
 # For Apple App Store
-python scrape_app_store.py --app_id=123456789
+python scrape_app_store.py
 ```
 
 3. **Output**
